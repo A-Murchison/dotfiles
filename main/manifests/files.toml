@@ -1,0 +1,42 @@
+[[files]]
+root = "config"
+path = "kdeglobals"
+parser = "kconfig"
+sha256 = "be4bb3829129fe75e2d5135040e1b24a9da062793d2ffd9f1623cebf0ed6bc6c"
+bytes = 2956
+
+[[files]]
+root = "config"
+path = "kscreenlockerrc"
+parser = "kconfig"
+sha256 = "76aa72a1b30c6a4e54263518a80527b0337b3d15e265b45885b71798b3ce0a9e"
+bytes = 63
+
+[[files]]
+root = "config"
+path = "kwinrc"
+parser = "kconfig"
+sha256 = "6aeb3395f7285bcfce302b30a8faec14015bfaef091c60911232249783cd57e3"
+bytes = 825
+
+[[files]]
+root = "config"
+path = "plasma-org.kde.plasma.desktop-appletsrc"
+parser = "kconfig"
+sha256 = "182e82fb7a341b6bbee8c191ce0118e76057a59f2fe99af534f63bf0aa8c7b48"
+bytes = 5979
+
+[[files]]
+root = "config"
+path = "plasmarc"
+parser = "kconfig"
+sha256 = "50892862246f0a36ae366e1fe26e8d502566f8bfd2c944cfc2d2fa43d6e394d5"
+bytes = 30
+
+[[files]]
+root = "config"
+path = "plasmashellrc"
+parser = "kconfig"
+sha256 = "2522e50af48b2776cb7b717244e4f09222fc70673b0c94d107c43d0ceb3791bd"
+bytes = 1973
+
