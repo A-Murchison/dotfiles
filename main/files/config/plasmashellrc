@@ -1,11 +1,11 @@
 [PlasmaViews][Panel 105]
 floating=1
 panelLengthMode=1
-panelVisibility=1
+panelVisibility=2
 shell=org.kde.plasma.desktop
 
 [PlasmaViews][Panel 105][Defaults]
-thickness=32
+thickness=42
 
 [PlasmaViews][Panel 127]
 floating=1

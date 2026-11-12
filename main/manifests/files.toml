@@ -16,15 +16,15 @@ bytes = 63
 root = "config"
 path = "kwinrc"
 parser = "kconfig"
-sha256 = "6aeb3395f7285bcfce302b30a8faec14015bfaef091c60911232249783cd57e3"
-bytes = 825
+sha256 = "badfb5d51a41f76d1e6e79b032cf9fa8ba0fd7b84f026ca927ab335d184eac03"
+bytes = 978
 
 [[files]]
 root = "config"
 path = "plasma-org.kde.plasma.desktop-appletsrc"
 parser = "kconfig"
-sha256 = "182e82fb7a341b6bbee8c191ce0118e76057a59f2fe99af534f63bf0aa8c7b48"
-bytes = 5979
+sha256 = "5c3257e76a6bb6c64f730b9b707becce8902f7578cd879733cccc93aea229687"
+bytes = 6398
 
 [[files]]
 root = "config"
@@ -37,6 +37,6 @@ bytes = 30
 root = "config"
 path = "plasmashellrc"
 parser = "kconfig"
-sha256 = "2522e50af48b2776cb7b717244e4f09222fc70673b0c94d107c43d0ceb3791bd"
+sha256 = "1d3e7609c535c0454e4314487fb3dd050d0eca88ce5da3ca11ec9de514d21616"
 bytes = 1973
 
