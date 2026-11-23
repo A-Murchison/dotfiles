@@ -9,8 +9,8 @@ bytes = 2956
 root = "config"
 path = "kscreenlockerrc"
 parser = "kconfig"
-sha256 = "76aa72a1b30c6a4e54263518a80527b0337b3d15e265b45885b71798b3ce0a9e"
-bytes = 63
+sha256 = "9c9735ca0fe5e94a3b49e2e0de14e85fca993643bd133236c185aa8ebcee7d63"
+bytes = 84
 
 [[files]]
 root = "config"
